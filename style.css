@@ -1,0 +1,28 @@
+h2{
+  color: green;
+}
+.topic{color: blue;
+}
+#favorite{color: red;
+}
+
+h1 {
+    text-align: center;
+}
+header {font-family:fantasy}
+header{color:red}
+header{font-size: 40px;}
+.hover-animation {
+    color: red; /* Initial font color */
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.hover-animation:hover {
+    color: skyblue; /* Font color on hover */
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
